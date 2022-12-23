@@ -1,0 +1,25 @@
+{
+	"items": [
+		{
+			"id": "1fa4e95b-be33-43cd-a1ef-a544ced5b7e8",
+			"name": "Tenda do quartel",
+			"location": "Canto do forte, Praia grande, SP",
+			"ratings": 3,
+			"parasols": 10
+		},
+		{
+			"id": "d7d1006f-14a0-487d-9e58-d30934947c09",
+			"name": "Carrinho do seu Zé",
+			"location": "Canto do forte, Praia grande, SP",
+			"ratings": 4,
+			"parasols": 5
+		},
+		{
+			"id": "ce373727-3ab2-429e-a75f-e1f83e8b7fa0",
+			"name": "Tenda do quartel",
+			"location": "Canto do forte, Praia grande, SP",
+			"ratings": 3,
+			"parasols": 10
+		}
+	]
+}
